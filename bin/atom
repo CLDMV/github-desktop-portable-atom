@@ -1,0 +1,3 @@
+#!/bin/sh
+"$(dirname "$0")/../resources/cli/atom.sh" "$@"
+echo
